@@ -1,4 +1,17 @@
-Here is a clean, well-formatted `README.md` file customized for these Dynamic Programming C implementations:
+## 💡 Dynamic Approach to Solve Optimization Problems
+
+* **Problem Division & Interrelated Subproblems:** The given problem is divided into a number of subproblems. Subproblems are not independent of each other; they are interrelated and hence are overlapping subproblems.
+* **Avoiding Recomputation:** To avoid recomputation of multiple subproblems repeatedly, a table is maintained. Whenever a subproblem is solved, its solution is stored in a table so that in future its solution can be used.
+* **Bottom-Up Combination:** The solution of subproblems are combined in a bottom-up manner to obtain the solution for the given problem.
+
+---
+
+## 📌 Characteristics of Dynamic Programming
+
+1. **Overlapping subproblems**
+2. **Memoization technique**
+3. **Tabulation method**
+4. **Optimal substructure**
 
 ```markdown
 # Dynamic Programming Algorithms in C
