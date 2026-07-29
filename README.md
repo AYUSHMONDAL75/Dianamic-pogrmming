@@ -21,9 +21,9 @@ A collection of foundational Dynamic Programming (DP) algorithm implementations 
 
 | Algorithm | Method | Time Complexity | Space Complexity |
 | :--- | :--- | :---: | :---: |
-| **Binomial Coefficient** | Dynamic Programming (2D Table) | $O(n \times r)$ | $O(n \times r)$ |
-| **Fibonacci Series** | Dynamic Programming (1D Table) | $O(n)$ | $O(n)$ |
-| **Matrix Chain Multiplication** | Dynamic Programming (2D Table) | $O(n^3)$ | $O(n^2)$ |
+| **Binomial Coefficient** | Dynamic Programming (2D Table) | O(n × r) | O(n × r) |
+| **Fibonacci Series** | Dynamic Programming (1D Table) | O(n) | O(n) |
+| **Matrix Chain Multiplication** | Dynamic Programming (2D Table) | O(n³) | O(n²) |
 
 ---
 
